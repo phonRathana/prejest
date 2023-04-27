@@ -1,60 +1,136 @@
 # JavaScript
-https://www.gstatic.com/firebasejs/9.19.1/firebase-app.js
+{
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=XRSAdkBrL-0_vtn9jlrbMw&gtm_preview=env-2&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NZ996QB');</script>
-<!-- End Google Tag Manager -->
-<body/>
+  "project_info": {
 
-</body>
+    "project_number": "244145628679",
 
-dependencies {
+    "project_id": "httpsrathanaphonwebsitcoin",
 
-  ...
+    "storage_bucket": "httpsrathanaphonwebsitcoin.appspot.com"
 
-  implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>
+  },
 
-  <html></html>
+  "client": [
 
-  <body style="background-color:powderblue;"></body>
+    {
 
-  <table></table> <html></html>
+      "client_info": {
+
+        "mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2",
+
+        "android_client_info": {
+
+          "package_name": "httpsrathanaphon.website.co"
+
+        }
+
+      },
+
+      "oauth_client": [
+
+        {
+
+          "client_id": "244145628679-5lpa61gqs6naujcec6om73v6hbhrlpq7.apps.googleusercontent.com",
+
+          "client_type": 3
+
+        }
+
+      ],
+
+      "api_key": [
+
+        {
+
+          "current_key": "AIzaSyAZwzbBslhqIFIc2c2-wJRru9PRcwpeu7I"
+
+        }
+
+      ],
+
+      "services": {
+
+        "appinvite_service": {
+
+          "other_platform_oauth_client": [
+
+            {
+
+              "client_id": "244145628679-5lpa61gqs6naujcec6om73v6hbhrlpq7.apps.googleusercontent.com",
+
+              "client_type": 3
+
+            }
+
+          ]
+
+        }
+
+      }
+
+    }
+
+  ],
+
+  "configuration_version": "1"
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
 
                      
 
-                      <tr></tr>
+                   
 
-                    <h1></h1>
+                 
 
-                 <h4></h4>
+                
 
-                 <i><i>
+              
 
-                 <style></style>
+               
 
-              <button>Click Me!</button>
+              
 
-           <html></html> httpsrathanaphon.Website.co.in.
+           
 
-           analytics 4 <body style="background-color:powderblue;"></body>
+          
 
 
 
            
 
-  < style>body{
+ 
 
-  background-color:powderblue;
+ 
 
-}</style><script></script> 
-<!-- Google Tag Manager (noscript) -->
 
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZ996QB&gtm_auth=XRSAdkBrL-0_vtn9jlrbMw&gtm_preview=env-2&gtm_cookies_win=x"
 
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
